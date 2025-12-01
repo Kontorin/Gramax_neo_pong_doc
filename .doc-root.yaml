@@ -1,3 +1,6 @@
 title: Gramax_neo_pong_doc
 optionalCategoryIndex: true
 supportedLanguages: []
+properties:
+  - name: Егор
+    type: BlockMd

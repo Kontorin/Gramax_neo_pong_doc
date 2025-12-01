@@ -171,3 +171,9 @@ title: Техническое задание 19.201-78
 [/block-property]
 
 ## 9\. Приложения
+
+[block-property:Егор]
+
+
+
+[/block-property]
